@@ -1,0 +1,36 @@
+
+
+.inner1 {
+    margin: 40px;
+}
+
+.container {
+    display: flex;
+}
+.inner3{
+    margin: 50px;
+}
+.inner4{
+    margin: 60px;
+    padding: 40px;
+}
+
+.container2{
+    display: flex;
+    margin: 30px;
+}
+.inner{
+    margin: 40px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.inner5{
+    margin: 40px;
+}
+.container3{
+    display: flex;
+    
+}
+.inner6{
+    margin: 40px;
+}
